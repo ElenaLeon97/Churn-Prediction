@@ -56,8 +56,7 @@ Built multiple predictive models to classify churners vs. non-churners and compa
 - **Top Decile Lift**
 - **Gini Coefficient**
 
-### OLS Model Summary
----
+#### OLS Model Summary
 
 ```r
 # Logistic Regression Model
